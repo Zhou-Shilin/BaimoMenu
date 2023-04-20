@@ -1,0 +1,19 @@
+worlds:
+  world1:
+    enabled: true
+    items:
+      -
+        item-id: minecraft:stone
+        command: say hi
+      -
+        item-id: minecraft:grass
+        command: say bye
+  world2:
+    enabled: false
+    items:
+      -
+        item-id: minecraft:stone
+        command: say hi
+      -
+        item-id: minecraft:grass
+        command: say bye
