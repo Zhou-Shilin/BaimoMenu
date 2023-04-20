@@ -1,0 +1,6 @@
+name: BaimoMenu
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+main: top.baimoqilin.BaimoMenu.BaimoMenu
+author: BaimoQilin
+description: LanDeXieJieShaoLi qwq
